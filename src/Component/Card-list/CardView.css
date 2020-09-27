@@ -1,0 +1,15 @@
+.user-card{
+    transition: transform 0.25s ease-out;
+    transform: translateZ(0);
+    color: red;
+    background-color: #f3efef !important;
+    border-radius: 1.25rem !important;
+}
+.card-img{
+    width: 70%;
+    margin: 0 auto;
+}
+.card-body h1{
+    text-align: center;
+    font-size: 22px;
+}
